@@ -26,10 +26,6 @@ namespace COMP1004_W2017_LESSON2_PART1
         
         }
 
-        private void CalculatorForm_Load(object sender, EventArgs e)
-        {
-
-        }
     }
     
 }
